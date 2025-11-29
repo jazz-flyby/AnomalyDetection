@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Geuncheol "JAWS" Jang,</h1>
+<h1 align="center">Hi👋, I'm Geuncheol "JAZZ" Jang,</h1>
 <h2 align="center">a Pilot and Engineer who codes skies.</h2>
 <h3 align="center">My research interests are in the areas of Flight Dynamics and Control with AI(ML/DL/RL).</h3>
 
